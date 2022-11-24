@@ -1,0 +1,119 @@
+body {
+    position: absolute;
+    right: 200px;
+    left: 200px;
+    top: 30px;
+    font-family:Barlow Condensed;
+}
+
+#first-container {
+    /* background-color: aqua; */
+    height: 100px;
+}
+
+.btn-1 {
+    padding: 20px 20px 20px 20px;
+    float: right;
+    border-radius: 5px;
+    border-style: none;
+    background-color: hsl(198, 28%, 93%);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#second-container {
+    /* background-color: rgb(94, 126, 126);  */
+    height: 400px;
+}
+
+.sec-1 {
+    float: right;
+}
+
+.img-1 {
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Barlow Condensed;
+    font-weight: bolder;
+
+}
+
+.para-1 {
+    font-size: 20px;
+    color: hsl(200, 2%, 51%);
+
+}
+
+.btn-2 {
+    padding: 15px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgb(233, 98, 14);
+    color: white;
+}
+
+.sec-2 {
+    display: flex; 
+    color: hsl(200, 2%, 51%);
+}
+
+.sec-2 p{
+    margin-left: 20px;
+}
+#third-container {
+    /* background-color: brown; */
+    display: flex;
+
+
+}
+
+#third-container img {
+    border-radius: 10px;
+
+}
+
+#third-container div {
+    padding: 20px;
+}
+
+.image{
+    filter:sepia(100%);
+}
+
+.sec-3 {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.sec-3 p {
+    font-size: 20px;
+    color: hsl(200, 2%, 51%);
+}
+
+#fourth-container {
+    /* background-color: aquamarine; */
+    display: flex;
+    margin-top: 10px;
+}
+
+#fourth-container img {
+    background-color: rgb(233, 98, 14);
+    padding: 10px;
+}
+
+#fourth-container div {
+    padding: 20px;
+}
+
+#fourth-container p {
+    font-weight: bolder;
+    color: hsl(200, 2%, 51%);
+
+}
+#fourth-container h3{
+    font-weight: bolder;
+}
